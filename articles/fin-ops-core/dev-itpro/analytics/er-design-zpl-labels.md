@@ -71,6 +71,7 @@ You can view an editable version of the configured data model on the **Data mode
 
 ![Structure of the ER data model on the Data model designer page.](./media/er-design-zpl-labels-model.png)
 
+
 ## Design a model mapping for the configured data model
 
 As a user in the Electronic Reporting Developer role, you must create a new ER configuration that contains a [model mapping](er-overview-components.md#model-mapping-component) component for the Warehouse data model. This component implements the configured data model for Dynamics 365 Finance and is specific to that app. You must configure it to specify the application objects that will be used to fill in the configured data model with application data at runtime. To complete this task, you must understand how the data structure of the Warehouse management business domain is implemented in Finance.
